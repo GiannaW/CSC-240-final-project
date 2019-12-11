@@ -1,11 +1,6 @@
 # CSC-240-final-project
 
 
-Selection of input hardware
-Button
-OLED possibly
-Attiny 416
-Short prose about the project in README.MD
 My final project will be a basic  rock paper scissors game. It shows a  a sprite that has an an animation of rock paper and scissors and then outputs the result of the winner.
 
 CODE WRITTEN:
@@ -15,6 +10,7 @@ Components Used:
   Atiny 416
   SPI OLED
   Wires 
+  Breadboard
 
 
 The Pins used . 
